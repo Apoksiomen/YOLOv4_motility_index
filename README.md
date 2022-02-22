@@ -22,10 +22,9 @@ Bewley, A., Ge, Z., Ott, L., Ramos, F., & Upcroft, B. (2016, September). Simple 
 2) use the following command to run detection on this video
 
 python main.py -c config.json -v hiv00192.mp4
-  ```
-
 
 ### Results
+
 ![WIN_20220214_10_33_06_Pro](https://user-images.githubusercontent.com/98668610/155104628-1f24aad1-323f-44e8-8166-2ec2c6ca99ff.jpg)
 
 
